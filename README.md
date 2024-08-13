@@ -1,1 +1,1 @@
-# real_estate_model
+numpy,pandas,matplotlib,seaborn,scikit-learn
